@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # C++ Laser Scanner Driver
 
 > **Nota:** Questo progetto è stato sviluppato come elaborato accademico universitario (anno 2020-2021). L'obiettivo principale è l'implementazione di strutture dati a basso livello e la gestione manuale della memoria in C++.
@@ -83,4 +80,3 @@ Attraverso questo progetto sono stati approfonditi i seguenti concetti:
 
 ```
 
-```
