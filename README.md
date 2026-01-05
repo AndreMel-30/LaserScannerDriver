@@ -22,7 +22,7 @@ Il core del progetto è la gestione efficiente delle risorse tramite puntatori r
 * `LaserScannerDriver.cpp`: Implementazione della logica del driver.
 * `main.cpp`: Programma demo che mostra l'utilizzo della classe.
 
-## 💻Compilazione ed Esecuzione
+## Compilazione ed Esecuzione
 
 Il progetto non richiede librerie esterne oltre alla standard library. È necessario un compilatore che supporti almeno **C++11**.
 
@@ -73,10 +73,10 @@ Attraverso questo progetto sono stati approfonditi i seguenti concetti:
 * Override degli operatori (es. `operator<<`, `operator=`).
 * Algoritmi su buffer circolari.
 
----
+
 
 **Autore:** Andrea Melissari
 **Corso:** Laboratorio di Programmazione/Università di Padova/A.A. 2020-2021
 
-```
+
 
