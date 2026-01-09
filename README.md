@@ -4,7 +4,7 @@
 > **Nota:** Questo progetto è stato sviluppato come elaborato accademico universitario (anno 2020-2021). L'obiettivo principale è l'implementazione di strutture dati a basso livello e la gestione manuale della memoria in C++.
 
 ## Descrizione
-Questo progetto implementa un driver software simulato per un sensore Laser Scanner. Il driver gestisce un flusso di dati in entrata (scansioni laser) utilizzando un **buffer circolare** a dimensione fissa.
+Questo progetto implementa un driver software simulato per un laser LIDAR. Il driver gestisce un flusso di dati in entrata (scansioni laser) utilizzando un **buffer circolare** a dimensione fissa.
 
 Il core del progetto è la gestione efficiente delle risorse tramite puntatori raw e l'implementazione completa della **Rule of 5** del C++ (Costruttori, Distruttori, Copy/Move Semantics), garantendo la corretta allocazione e deallocazione della memoria heap senza l'ausilio di smart pointers o container STL per il buffer interno.
 
